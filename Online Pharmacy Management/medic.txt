@@ -1,0 +1,14 @@
+Abacavir;20/4/2024;50.5;Treat HIV;
+Metformin;20/8/2024;50.0;Treat Diabetes;
+Losartan;17/1/2025;45.0;Treat high blood pressure;
+Antibiotics;25/4/2023;52.0;Treat illnesses caused by bacteria infection;
+Albuterol;2/6/2023;48.0;Treat Asthma;
+Antihistamines;1/5/2024;40.0;Treat symptoms of most allergies;
+Omeprazole;2/5/2025;46.0;Reduces the amount of acid in the stomach;
+Atorvastatin;20/1/2023;58.0;Treat heart disease;
+Panadol;9/9/2025;54.0;Treat headaches; toothaches;backaches;cold aches and reduce fever;
+Famotidine;27/4/2024;45.0;Reduce the amount of acid in the stomach;
+Vitamin A;24/6/2025;55.0;Helps the development of epithelial tissue and bone;increase immunity;
+Vitamin E;20/9/2025;55.0;Scavenges free radicals that can damage cells; reduce chance of cancer;
+Vitamin D;23/5/2025;55.0;Helps the growth and development of bones;
+Zanamivir;25/7/2024;52.0;Treat influenza;
